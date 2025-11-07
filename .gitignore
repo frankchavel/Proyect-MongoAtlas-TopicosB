@@ -4,6 +4,7 @@ myenv/
 .myenv/
 .myenv
 
+__pycache__
 #Secrets
 .env
 
